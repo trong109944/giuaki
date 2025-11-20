@@ -57,7 +57,7 @@ body {
 
     z-index: 9999;
 }
-
+/* Code by trong109944 */
 .navbar.scrolled {
     padding: 8px 80px;  
     box-shadow: 0 4px 18px rgba(0,0,0,0.12);
@@ -597,4 +597,5 @@ body {
     text-align: center;
     margin-top: 50px;
 }
+
 
